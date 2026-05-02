@@ -33,8 +33,7 @@ bbdms/
 ├── sql/
 │   └── bbdms_rebuild.sql           — single script to recreate the entire system
 ├── docs/
-│   └── BBDMS_Final_Synopsis.docx   — full project synopsis (~25 pages)
-└── screenshots/                    — DBeaver screenshots of demo runs
+  └── BBDMS_Final_Synopsis.docx   — full project synopsis (~25 pages)
 ```
 
 ---
