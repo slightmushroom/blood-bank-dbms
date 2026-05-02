@@ -8,7 +8,7 @@ A backend-first database project on Oracle 23ai built for **UCS310 — Database 
 
 | Name | Roll Number |
 |---|---|
-| Devansh Gupta | 102403093 |
+| Devansh Gupta | 1024030930 |
 | Matreyi Suryan | 1024030273 |
 | Ayati Gupta | 1024030477 |
 
