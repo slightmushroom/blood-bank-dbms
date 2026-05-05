@@ -45,11 +45,10 @@ The project runs on **Oracle Database 23ai Free** in a Docker container. Tested 
 ### 1. Start Oracle in Docker
 
 ```bash
-docker run -d --name oracle-bbdms \
-  -p 1521:1521 \
-  -e ORACLE_PASSWORD=BloodBank123 \
-  -v oracle-bbdms-data:/opt/oracle/oradata \
-  gvenzl/oracle-free:23-slim
+ open -a Docker
+docker start oracle-bbdms
+docker ps
+
 ```
 
 Wait ~2 minutes for the container to become healthy:
